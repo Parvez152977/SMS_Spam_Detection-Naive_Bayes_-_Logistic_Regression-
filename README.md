@@ -683,6 +683,26 @@ Each classifier must also use its corresponding fitted vectorizer.
 The prediction probability represents the model's estimated probability for its predicted class. It should not be interpreted as a guarantee of correctness.
 
 ---
+## Figures that found through analysis
+
+1. Word Cloud
+![Project Screenshot](images/word_cloud.png)
+2. Distribution (Ham vs Spam)
+![Project Screenshot](images/Distribution.png)
+3. Message Length
+![Project Screenshot](images/Message_length.png)
+4. Confution Matrix - Naive Bayes
+![Project Screenshot](images/confusion_matrix-Naive_Bayes.png)
+5. Confution Matrix - Logistic Regression
+![Project Screenshot](images/confusion_matrix-logistic_Regression.png)
+6. Test Set Comparison
+![Project Screenshot](images/test_set_comparison.png)
+7. Logistic Regression Learning Word
+![Project Screenshot](images/logistic-regression_learning.png)
+
+
+---
+---
 
 ## 16. Final Project Findings
 
